@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/javascript-007396?style=flat-square&logo=javascript&logoColor=yellow
