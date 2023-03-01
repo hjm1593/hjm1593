@@ -7,8 +7,7 @@
 
 ## 🛠️Tech Stack🛠️
 
-[https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
 [https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
 [https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
