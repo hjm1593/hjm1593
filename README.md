@@ -5,7 +5,7 @@
 
 웹 개발에 필요한 기술 스택을 쌓고 있습니다.
 
-![DDabong2](https://user-images.githubusercontent.com/57209066/228136194-f5ed3946-7bae-42b5-8305-6353cca83ec2.png){: width="100" height="100"}
+![DDabong2](https://user-images.githubusercontent.com/57209066/228136194-f5ed3946-7bae-42b5-8305-6353cca83ec2.png)
 
 ## 🛠️Tech Stack🛠️
 
