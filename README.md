@@ -1,8 +1,6 @@
 
 ## 😀 Introduce
 
-![따봉이모지](https://user-images.githubusercontent.com/57209066/228135454-e0f542bc-5399-4283-b20c-ef23ee67b0ac.jpg)
-
 지속가능한 개발과 가치 있는 비즈니스를 지향하는 개발자 홍종민입니다.
 
 웹 개발에 필요한 기술 스택을 쌓고 있습니다.
